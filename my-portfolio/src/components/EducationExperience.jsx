@@ -28,10 +28,9 @@ export default function EducationExperience() {
           Experience
         </h3>
         <div className="bg-white/5 p-5 rounded-lg border border-white/10">
-          <h4 className="text-lg font-medium">Internship at HaskelAI</h4>
+          <h4 className="text-lg font-medium"></h4>
           <ul className="list-disc ml-5 text-gray-300 text-sm space-y-1 mt-2">
-            <li>Worked as Fullstack Intern (June–Sep 2025)</li>
-            <li>Built microservices using Spring Boot & React</li>
+           
           </ul>
         </div>
       </motion.div>
